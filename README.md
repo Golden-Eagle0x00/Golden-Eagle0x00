@@ -8,7 +8,7 @@
 </h3>
 
 - 🤖 R&D Engineer
-- 🔭 ECE Fresh Graduate
+- 🔭 ECE Graduate
 - 👨‍💻 Passion for embedded systems, electronics and IoT
 - 📫 How to reach me.! ---> <a href="https://www.linkedin.com/in/ahmed-sam/" target="_blank">Ahmed Samy's LinkedIn Profile</a>
 
